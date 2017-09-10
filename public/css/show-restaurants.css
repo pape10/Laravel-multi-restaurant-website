@@ -1,0 +1,18 @@
+.no-padding
+{
+    padding-right: 0;
+  padding-left: 0;
+
+}
+.restaurant-style
+{
+    border: 2px solid #e6e6e6;
+}
+.nowrap
+{
+    overflow:scroll;
+}
+.figure-holder img
+{
+	height: 300px;
+}
